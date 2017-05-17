@@ -1,0 +1,12 @@
+c:\users\student\documents\visual studio 2015\Projects\ClassWorkLinq\ClassWorkLinq\bin\Debug\ClassWorkLinq.exe.config
+c:\users\student\documents\visual studio 2015\Projects\ClassWorkLinq\ClassWorkLinq\obj\Debug\ClassWorkLinq.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\ClassWorkLinq\ClassWorkLinq\bin\Debug\ClassWorkLinq.exe
+c:\users\student\documents\visual studio 2015\Projects\ClassWorkLinq\ClassWorkLinq\bin\Debug\ClassWorkLinq.pdb
+c:\users\student\documents\visual studio 2015\Projects\ClassWorkLinq\ClassWorkLinq\obj\Debug\ClassWorkLinq.exe
+c:\users\student\documents\visual studio 2015\Projects\ClassWorkLinq\ClassWorkLinq\obj\Debug\ClassWorkLinq.pdb
+C:\Users\Валентина\Documents\Visual Studio 2015\Projects\ClassWorkLinq\ClassWorkLinq\bin\Debug\ClassWorkLinq.exe.config
+C:\Users\Валентина\Documents\Visual Studio 2015\Projects\ClassWorkLinq\ClassWorkLinq\obj\Debug\ClassWorkLinq.exe
+C:\Users\Валентина\Documents\Visual Studio 2015\Projects\ClassWorkLinq\ClassWorkLinq\obj\Debug\ClassWorkLinq.pdb
+C:\Users\Валентина\Documents\Visual Studio 2015\Projects\ClassWorkLinq\ClassWorkLinq\bin\Debug\ClassWorkLinq.exe
+C:\Users\Валентина\Documents\Visual Studio 2015\Projects\ClassWorkLinq\ClassWorkLinq\bin\Debug\ClassWorkLinq.pdb
+C:\Users\Валентина\Documents\Visual Studio 2015\Projects\ClassWorkLinq\ClassWorkLinq\obj\Debug\ClassWorkLinq.csprojResolveAssemblyReference.cache
